@@ -1,0 +1,11 @@
+# Site settings
+
+title: Example Blog
+autor: 
+  name: Wicks
+  email: fakeemail@email.org
+description: I'm using Jekyll and Github
+
+# Build Settings
+
+remote_theme: jekyll/minima
